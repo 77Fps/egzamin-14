@@ -1,0 +1,32 @@
+header {
+    background: rgb(48,27,94);
+    color: white;
+    font-size: 120%;
+    text-align: center;
+    height: 80px;
+}
+#prawy {
+    background: rgb(220,220,220);
+    width: 75%;
+    height: 500px;
+    font-size: 110%;
+    float: left;
+}
+#lewy {
+    background: rgb(127,118,158);
+    width: 25%;
+    height: 500px;
+    color: white;
+    float: left;
+}
+footer {
+    background: rgb(127,118,158);
+    color: white;
+    text-align: center;
+    height: 80px;
+    clear: both;
+}
+td,
+table {
+    border: 1px solid #fff;
+}
